@@ -26,14 +26,7 @@
 ### 2.2. Указываем параметры
 
 - **Название:** любое (например, "TelegramBot")
-- **Redirect URI:** `https://t.me/ВАШ_БОТ` (замените на своего бота)
-- **Разрешения (scope):**
-  - `account-info`
-  - `operation-history`
-  - `operation-details`
-  - `incoming-transfers`
-  - `payment-p2p`
-  - `payment-shop`
+- **Redirect URI:** `https://t.me/ВАШ_БОТ` (замените на 
 
 Нажмите **Подтвердить**.
 
