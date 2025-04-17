@@ -60,7 +60,7 @@ Authorize(
     client_id="ВАШ_CLIENT_ID",
     redirect_uri="ВАШ_REDIRECT_URI",
     client_secret="ВАШ_CLIENT_SECRET",
-    scope=["account-info", "operation-history", "payment-shop"]
+    scope=["account-info", "operation-history", "payment-p2p"]
 )
 ```
 
